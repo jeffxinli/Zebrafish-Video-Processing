@@ -43,5 +43,4 @@ if __name__ == "__main__":
     for path in video_paths:
         save_frame(path, save_dir, gap=10)
 
-# https://www.youtube.com/watch?v=SWGd2hX5p3U
 # change gap = 10 to gap = 1 for now skip frames (lines 13 & 44)
